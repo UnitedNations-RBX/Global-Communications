@@ -1,8 +1,8 @@
 ---
-name: UNGA Summit Submission Template
+name: UNSC Summit Submission Template
 about: Summit Information
-title: UNGA Summit YYYY/MM/DD
-labels: Summit Agenda, UNGA
+title: UNSC Summit YYYY/MM/DD
+labels: Summit Agenda, UNSC
 assignees: EXYZED
 
 ---
@@ -11,7 +11,7 @@ assignees: EXYZED
 * Time : 00:00:00 - UTC+0
 * Event Organizer / President : RBXUSERNAME
 
-# UNGA Minutes
+# UNSC Minutes
 
 > 1. Introduction 
 > 2. Voting
